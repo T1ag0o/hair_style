@@ -1,0 +1,9 @@
+"use strict"
+
+//Configuração do Dayjs
+import "./libs/dayjs"
+
+// buildar o CSS com o WEBPACK
+import "./styles/global.css"
+import "./styles/form.css"
+import "./styles/schedule.css"

@@ -3,9 +3,25 @@
   "description": "Aplicação WEB para agendamento de corte de cabelo",
   "author": "Tiago Arnhold",
   "scripts": {
+    "build": "webpack",
+    "dev": "webpack serve",
     "server": "json-server --watch server.json --port 3333"
   },
   "dependencies": {
+    "dayjs": "^1.11.21",
     "json-server": "^1.0.0-beta.15"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.29.7",
+    "@babel/core": "^7.29.7",
+    "@babel/preset-env": "^7.29.7",
+    "babel-loader": "^10.1.1",
+    "copy-webpack-plugin": "^14.0.0",
+    "css-loader": "^7.1.4",
+    "html-webpack-plugin": "^5.6.7",
+    "style-loader": "^4.0.0",
+    "webpack": "^5.107.2",
+    "webpack-cli": "^7.0.3",
+    "webpack-dev-server": "^5.2.5"
   }
 }
