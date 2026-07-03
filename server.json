@@ -1,3 +1,25 @@
 {
-  "schedules": []
+  "schedules": [
+    {
+      "id": "NrI8ObgBPUc",
+      "name": "Tiago",
+      "when": "2026-07-03T15:00:00.000Z"
+    },
+    {
+      "id": "XiivDu_VTaA",
+      "name": "Tiago",
+      "when": "2026-07-04T00:00:00.000Z"
+    },
+    {
+      "id": "df3-Gs0Dwsw",
+      "name": "Martineli",
+      "when": "2026-07-03T18:00:00.000Z"
+    },
+    {
+      "id": "efVhiSTSLhM",
+      "name": "Tiago",
+      "when": "2026-07-03T14:00:00.000Z"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
