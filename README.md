@@ -1,5 +1,3 @@
-# hair_style
-
 # HairDay
 
 Sistema de agendamento para barbearias/salões, com criação, listagem e cancelamento de horários por período do dia (manhã, tarde, noite).
