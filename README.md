@@ -1,29 +1,30 @@
 # hair_style
 
-# 💇 HairDay
+# HairDay
 
 Sistema de agendamento para barbearias/salões, com criação, listagem e cancelamento de horários por período do dia (manhã, tarde, noite).
 
-![preview do projeto](./)
+![preview do projeto](./docs/hairday.png)
 
-## 🔗 Demo
+## Demo
 [Acesse o projeto online](https://seu-link-aqui.com)
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - JavaScript (ES Modules)
 - Day.js (manipulação de datas)
 - JSON Server (mock de API)
-- Vite (bundler)
+- Webpack
+- Babel
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - Criar novo agendamento
 - Listar agendamentos organizados por período do dia
 - Cancelar agendamento existente
 - Validação de horários já ocupados
 
-## 📦 Como rodar o projeto
+## Como rodar o projeto
 
 ```bash
 # Clone o repositório
@@ -42,7 +43,7 @@ npm run server
 npm run dev
 ```
 
-## 📁 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 
@@ -82,13 +83,13 @@ main.js
 
 ```
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Esse projeto foi construído pra praticar:
 - Funções assíncronas (async/await)
 - Manipulação do DOM sem framework
 - Organização de código em módulos
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT.
