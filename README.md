@@ -26,7 +26,7 @@ Sistema de agendamento para barbearias/salões, com criação, listagem e cancel
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/hairday.git
+git clone https://github.com/T1ag0o/hair_style.git
 
 # Entre na pasta
 cd hairday
