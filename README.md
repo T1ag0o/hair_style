@@ -2,7 +2,7 @@
 
 Sistema de agendamento para barbearias/salões, com criação, listagem e cancelamento de horários por período do dia (manhã, tarde, noite).
 
-![preview do projeto](./docs/hairday.png)
+![preview do projeto](./docs/gifSistema.gif)
 
 ## Demo
 [Acesse o projeto online](https://seu-link-aqui.com)
