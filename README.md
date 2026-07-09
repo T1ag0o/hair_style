@@ -4,8 +4,6 @@ Sistema de agendamento para barbearias/salões, com criação, listagem e cancel
 
 ![preview do projeto](./docs/gifSistema.gif)
 
-## Demo
-[Acesse o projeto online](https://seu-link-aqui.com)
 
 ## Tecnologias
 
